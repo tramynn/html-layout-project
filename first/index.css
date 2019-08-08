@@ -1,20 +1,31 @@
-.box-1 {
+body {
+    background-color: black;
+}
 
+.box-container {
+    text-align: center;
+}
+
+.box-1 {
+    background-color: #D8D8D8;
+    height: 765px;
+    width: 765px;
+    display: inline-block;
 }
 
 .box-2 {
-
+    background-color:
 }
 
 .box-3 {
-
+    background-color:
 }
 
 .box-4 {
-
+    background-color:
 }
 
 .box-5 {
-
+    background-color:
 }
 
