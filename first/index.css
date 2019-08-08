@@ -22,14 +22,20 @@ body {
 }
 
 .box-3 {
-    background-color:
+    background-color: #EFEFEF;
+    height: 640px;
+    width: 510px;
+    display: inline-block;
+    position: static;
+    top: 125px;
 }
 
 .box-4 {
-    background-color:
+    background-color: #222222;
+    height: 50px;
+    width: 510px;
+    position: absolute;
+    bottom: 0px;
 }
 
-.box-5 {
-    background-color:
-}
 
