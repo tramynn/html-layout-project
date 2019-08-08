@@ -14,7 +14,11 @@ body {
 }
 
 .box-2 {
-    background-color:
+    background-color: #444444;
+    height: 125px;
+    width: 765px;
+    position: static;
+    top: 0px;
 }
 
 .box-3 {
