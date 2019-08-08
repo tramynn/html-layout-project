@@ -2,18 +2,18 @@ body {
     background-color: black;
 }
 
-.box-container {
+.main-box {
     text-align: center;
 }
 
-.box-1 {
+.header{
     background-color: #D8D8D8;
     height: 765px;
     width: 765px;
     display: inline-block;
 }
 
-.box-2 {
+.side-content {
     background-color: #444444;
     height: 125px;
     width: 765px;
@@ -21,7 +21,7 @@ body {
     top: 0px;
 }
 
-.box-3 {
+.main {
     background-color: #EFEFEF;
     height: 640px;
     width: 510px;
@@ -30,7 +30,7 @@ body {
     top: 125px;
 }
 
-.box-4 {
+.footer {
     background-color: #222222;
     height: 50px;
     width: 510px;
